@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on some powershell script<br>🤝 I’m looking for help with powershell or phyton<br>💼 I’m working for an goverment IT Company<br>🌱 I’m currently learning phyton <br>💬 Ask me about LinkedIn or GitHub<br>⚡ Fun fact i love american football and cars
+🔭 I’m currently working on some powershell script<br>🤝 I’m looking for help with powershell or phyton<br>💼 I’m working for an goverment IT Company<br>🌱 I’m currently learning phyton <br>💬 Ask me about Powershell, Trend Micro Antivirus or Visual Studio Code<br>⚡ Fun fact i love american football and cars
 
 
 ## 🌐 Socials:
